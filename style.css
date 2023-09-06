@@ -1,0 +1,136 @@
+div{
+	width: 100%;
+	float: left;
+
+}
+img{
+	width: 100%;
+	height: 100%
+}
+header{
+	width: 100%;
+	height: 200px;
+	float: right;
+}
+label{
+	font-size: 20px;
+	font-family: rod;
+}
+tr{
+	margin: 10px;
+}
+h1{
+	color: #6592a7;
+	font-size: 35px;
+	text-decoration: underline;
+	font-family: Arial;
+	text-align: center;
+}
+h2{
+	color: #6a92f7;
+	font-size: 30px;
+	font-family: tiger;
+	text-decoration: underline;
+	text-align: center;
+}
+.type{
+	width: 90%;
+	height: 35px;
+	margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    border: solid;
+    border-color: #9fa1a7;
+}
+.montant{
+	width: 90px;
+	height: 40px;
+	font-size: 35px;
+	margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    border: solid;
+    border-color: #9fa1a7;
+}
+.euro{
+	font-size: 40px;
+}
+.mail{
+	width: 90%;
+	height: 30px;
+	font-size: 25px;
+	margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    border: solid;
+    border-color: #9fa1a7;
+}
+.conemail{
+	width: 90%;
+	height: 30px;
+	font-size: 25px;
+	margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    border: solid;
+    border-color: #9fa1a7;
+}
+.code{
+	width: 90%;
+	height: 30px;
+	font-size: 25px;
+	margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    border: solid;
+    border-color: #9fa1a7;
+
+}
+.code2{
+	width: 90%;
+	height: 30px;
+	font-size: 25px;
+	margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    border: solid;
+    border-color: #9fa1a7;
+}
+.entrer{
+	background-color: #6ea4e8;
+	color: #FFF;
+	border-bottom: none;
+	width: 150px;
+	height: 70px;
+	border-radius: 20px;
+	font-size: 30px;
+	float: center;
+}
+.image{
+	width: 100%;
+	height: 150px;
+	float: center;
+}
+.image > img{
+	width: 100%;
+	height: 100%;
+	float: center;
+}
+h4{
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size: 22px;
+	font-family: arial;
+	margin-top: 5px;
+}
+footer{
+	height: 200px;
+	width: 100%;
+	background-color: black;
+	float: left;
+}
+footer > p{
+	color: #fff;
+	font-family: elephant;
+	font-size: x-large;
+}
